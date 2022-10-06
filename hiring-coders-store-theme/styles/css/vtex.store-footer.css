@@ -1,0 +1,39 @@
+.footerLayout{
+  background: #909090;
+  color: #fff;
+}
+.row--menu-row {
+  padding-right: 24px;
+}
+
+.row--menu-row .rowContainer {
+  align-items: flex-start;
+}
+
+.row--payment-methods {
+  padding-top: 16px;
+}
+.footerLayout .rich-text{
+  color: #fff;
+  text-align: center;
+}
+.socialNetworkImage,
+.paymentMethodIconImage{
+  filter: brightness(100);
+}
+.rich-text{
+  color: #fff;
+}
+
+.footerLayoutSpacer{
+  height: 75px;
+}
+
+.socialNetworkWrapper,
+.acceptedPaymentMethodContainer {
+  margin-top: -12px;
+}
+
+.footerLayout {
+  padding: 20px;
+}

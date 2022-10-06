@@ -1,0 +1,90 @@
+{
+  "vtex.menu@2.x:menu#category-menu": {
+    "title": "[Header] - Menu",
+    "props": {
+      "experimentalOptimizeRendering": true,
+      "items": [
+        {
+          "id": "menu-item-category-1",
+          "type": "category",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "categoryId": "21",
+            "text": "Camisetas"
+          }
+        },
+        {
+          "id": "menu-item-category-2",
+          "type": "category",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "categoryId": "19",
+            "text": "Canecas"
+          }
+        },
+        {
+          "id": "menu-item-category-3",
+          "type": "category",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "categoryId": "22",
+            "text": "Copos"
+          }
+        },
+        {
+          "id": "menu-item-category-4",
+          "type": "category",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "categoryId": "23",
+            "text": "Mochilas"
+          }
+        },
+        {
+          "id": "menu-item-category-5",
+          "type": "category",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "categoryId": "24",
+            "text": "Moletons"
+          }
+        },
+        {
+          "id": "menu-item-category-6",
+          "type": "category",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "categoryId": "25",
+            "text": "Mousepad"
+          }
+        },
+        {
+          "id": "menu-item-category-7",
+          "type": "category",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "categoryId": "26",
+            "text": "Hats"
+          }
+        },
+        {
+          "id": "menu-item-category-7",
+          "type": "category",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "categoryId": "27",
+            "text": "Notes"
+          }
+        }
+      ]
+    }
+  }
+}
